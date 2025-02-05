@@ -21,7 +21,8 @@ public class WiseSayings {
 		"Without a doubt.",
 		"Yes.",
 		"Yes – definitely.",
-		"You may rely on it."
+		"You may rely on it.",
+		"You wish"
 	};
 	
 	public static String getRandomSaying() {
